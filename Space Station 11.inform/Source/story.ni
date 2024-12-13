@@ -11,6 +11,10 @@ Include Introductions by Emily Short.
 Include Room Description Control by Emily Short.
 Include Ordinary Room Description by Emily Short.
 
+Book 2 - Release
+
+Release along with cover art and an interpreter, a website.
+
 Volume 2 - Mechanics
 
 Book 1 - Commands
@@ -73,9 +77,7 @@ Engineering is a Department.
 
 Section 1 - Rooms
 
-Engineering Break Room is a room in Engineering.
-	The introduction is "The main foyer and break room for engineers. A faint smell of cigarette smoke fills the air."
-	The initial appearance is "The main foyer and break room for engineers. A faint smell of cigarette smoke fills the air."
+Engineering Break Room is a room in Engineering. "The main foyer and break room for engineers. A faint smell of cigarette smoke fills the air."
 Engineering Locker Room is a room in Engineering. "The equipment room for engineers."
 The extinguisher is a fire extinguisher in Engineering Break Room.
 The engineering crowbar is a crowbar in Engineering Locker Room.
